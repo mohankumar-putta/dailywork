@@ -221,6 +221,10 @@
           <input type="Password" name="mohan" id="mohan@123" placeholder="Password" required>
 	  <span>!</span>
         <div class="form-input">
+<<<<<<< HEAD
+=======
+          <input type="Password" name="pooja" id="pooja@123" placeholder="Password" required>
+>>>>>>> f1fb2f2 (code changes done)
           <span>!</span>
           <p class="warning">Password cannot be empty</p>
         </div>
