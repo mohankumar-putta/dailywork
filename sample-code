@@ -219,7 +219,7 @@
         </div>
 
         <div class="form-input">
-          <input type="Password" name="mohan" id="17121213" placeholder="Password" required>
+          <input type="Password" name="mohan kumar" id="17121213" placeholder="Password" required>
           <span>!</span>
           <p class="warning">Password cannot be empty</p>
         </div>
