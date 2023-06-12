@@ -217,12 +217,19 @@
           <span>!</span>
           <p class="warning">Looks like this is not an email</p>
         </div>
+<<<<<<< HEAD
+        <div class="form-input"> 
+          <input type="Password" name="mohan" id="mohan@123" placeholder="Password" required>
+	  <span>!</span>
+=======
 
         <div class="form-input">
-        <input type="Password" name="mohan" id="mohan@123" placeholder="Password" required>
-        <span>!</span>
-	<p class="warning">Password cannot be empty</p>
-	</div>
+          <input type="Password" name="pooja" id="pooja@123" placeholder="Password" required>
+          <span>!</span>
+>>>>>>> prod
+          <p class="warning">Password cannot be empty</p>
+        </div>
+
         <input class="submit-btn" type="submit" value="Claim your offer">
         <p class="form-term">By clicking the button, you are agreeing to our <span>Terms and Services</span> </p>
       </form>

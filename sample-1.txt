@@ -217,9 +217,11 @@
           <span>!</span>
           <p class="warning">Looks like this is not an email</p>
         </div>
-        <div class="form-input"> 
+       <div class="form-input"> 
           <input type="Password" name="mohan" id="mohan@123" placeholder="Password" required>
 	  <span>!</span>
+        <div class="form-input">
+          <span>!</span>
           <p class="warning">Password cannot be empty</p>
         </div>
 
